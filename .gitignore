@@ -1,2 +1,16 @@
-.idea
+/.idea
 .DS_Store
+/build/
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
+/.phpcs-cache
+/phpcs.xml
+.phpunit
+.phpunit.result.cache
+/phpunit.xml
+
