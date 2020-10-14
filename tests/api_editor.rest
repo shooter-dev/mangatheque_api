@@ -1,0 +1,17 @@
+GET http://127.0.0.1:8000/api/editors
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/api/editor/5
+Accept: application/json
+
+###
+POST http://127.0.0.1:8000/api/editor
+Content-Type: application/json
+
+{
+  "name": "editor",
+  "cover": "cover.png"
+}
+
+###
