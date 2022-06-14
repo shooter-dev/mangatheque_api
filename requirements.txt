@@ -1,0 +1,7 @@
+Django==3.2.5
+djangorestframework==3.12.4
+pip~=22.1.2
+pytz~=2022.1
+sqlparse~=0.4.2
+asgiref~=3.5.2
+setuptools~=40.8.0
